@@ -21,6 +21,7 @@ struct RecentTransactionList: View {
                 
                 //MSRK: Header Link
                 NavigationLink{
+                    TransactionList()
                     
                 } label: {
                         HStack(spacing: 4){
