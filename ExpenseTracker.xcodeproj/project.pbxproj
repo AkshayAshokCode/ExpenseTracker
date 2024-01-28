@@ -17,6 +17,7 @@
 		C4C740E02B648C23009A9CD8 /* TransactionRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4C740DF2B648C23009A9CD8 /* TransactionRow.swift */; };
 		C4C740E32B64913E009A9CD8 /* SwiftUIFontIcon in Frameworks */ = {isa = PBXBuildFile; productRef = C4C740E22B64913E009A9CD8 /* SwiftUIFontIcon */; };
 		C4C740E52B66C6D4009A9CD8 /* TransactionListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4C740E42B66C6D4009A9CD8 /* TransactionListViewModel.swift */; };
+		C4C740E92B66D15A009A9CD8 /* RecentTransactionList.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4C740E82B66D15A009A9CD8 /* RecentTransactionList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		C4C740DD2B648A85009A9CD8 /* PreviewData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewData.swift; sourceTree = "<group>"; };
 		C4C740DF2B648C23009A9CD8 /* TransactionRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionRow.swift; sourceTree = "<group>"; };
 		C4C740E42B66C6D4009A9CD8 /* TransactionListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionListViewModel.swift; sourceTree = "<group>"; };
+		C4C740E82B66D15A009A9CD8 /* RecentTransactionList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecentTransactionList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				C41262572B6012C300E5CF26 /* ExpenseTrackerApp.swift */,
 				C41262592B6012C300E5CF26 /* ContentView.swift */,
 				C4C740DF2B648C23009A9CD8 /* TransactionRow.swift */,
+				C4C740E82B66D15A009A9CD8 /* RecentTransactionList.swift */,
 				C4C740E42B66C6D4009A9CD8 /* TransactionListViewModel.swift */,
 				C4C740DB2B648947009A9CD8 /* TransactionModel.swift */,
 				C4C740D92B6485C6009A9CD8 /* Extensions.swift */,
@@ -161,6 +164,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C4C740DE2B648A85009A9CD8 /* PreviewData.swift in Sources */,
+				C4C740E92B66D15A009A9CD8 /* RecentTransactionList.swift in Sources */,
 				C4C740DC2B648947009A9CD8 /* TransactionModel.swift in Sources */,
 				C412625A2B6012C300E5CF26 /* ContentView.swift in Sources */,
 				C4C740E02B648C23009A9CD8 /* TransactionRow.swift in Sources */,
