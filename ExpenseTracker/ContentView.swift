@@ -20,7 +20,7 @@ struct ContentView: View {
                         .font(.title2)
                         .bold()
                     
-                    //MSRK: Chart
+                    //MARK: Chart
                     let data = transactionListVM.accumulateTransactions()
                     
                     if !data.isEmpty {
